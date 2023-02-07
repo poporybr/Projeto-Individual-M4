@@ -19,4 +19,17 @@ Um curso tem várias turmas, e cada turma tem vários alunos.
 
 #### :heavy_check_mark: TABELA ALUNO
  
-![](https://raw.githubusercontent.com/poporybr/Projeto-Individual-M4/main/prints/print%20Alunos%20Resilia.png)
+![](https://raw.githubusercontent.com/poporybr/Projeto-Individual-M4/main/prints/print%20Alunos%20Resilia.png?raw=true)
+
+#### :heavy_check_mark: TABELA CURSO
+
+![](https://github.com/poporybr/Projeto-Individual-M4/blob/main/prints/print%20Cursos%20Resilia.png?raw=true)
+
+#### :heavy_check_mark: TABELA TURMA
+
+![](https://github.com/poporybr/Projeto-Individual-M4/blob/main/prints/print%20Turmas%20Resilia.png?raw=true)
+
+#### :white_check_mark: BANCO FINAL.
+
+![](https://github.com/poporybr/Projeto-Individual-M4/blob/main/prints/print%20Turmas%20Resilia.png?raw=true)
+
