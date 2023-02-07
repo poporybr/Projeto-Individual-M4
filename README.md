@@ -16,3 +16,7 @@ curso_id: um campo numérico que identifica o curso ao qual a turma está associ
 ####  :three: Como essas entidades estão relacionadas?
 cada turma está associada a um único curso. A relação entre essas duas tabelas é uma relação de um para muitos, ou seja, um curso pode ter várias turmas, mas cada turma pertence a apenas um curso.
 Um curso tem várias turmas, e cada turma tem vários alunos.
+
+#### :heavy_check_mark: TABELA ALUNO
+ 
+![](https://raw.githubusercontent.com/poporybr/Projeto-Individual-M4/main/prints/print%20Alunos%20Resilia.png)
