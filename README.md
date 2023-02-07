@@ -31,5 +31,5 @@ Um curso tem várias turmas, e cada turma tem vários alunos.
 
 #### :white_check_mark: BANCO FINAL.
 
-![](https://github.com/poporybr/Projeto-Individual-M4/blob/main/prints/print%20Turmas%20Resilia.png?raw=true)
+![](https://github.com/poporybr/Projeto-Individual-M4/blob/main/prints/print%20Banco%20de%20dados%20Resilia.png?raw=true)
 
