@@ -3,9 +3,8 @@
 #### :one: Existem outras entidades além dessas três?  
 Depende do contexto e do propósito do sistema que está sendo desenvolvido. As três tabelas que mencionei anteriormente (cursos, turmas e alunos) são apenas uma representação simples e genérica de uma estrutura de dados relacional.
 
-Se o sistema precisar de mais informações sobre os alunos, como endereço, data de nascimento, e-mail, etc., pode ser necessário criar uma tabela separada para armazenar esses dados adicionais. De maneira semelhante, se o sistema precisar de informações sobre professores ou aulas, pode ser necessário criar tabelas adicionais para essas entidades.
-
-Em resumo, existência de outras entidades além dessas três depende das necessidades do sistema e da complexidade dos dados que precisam ser armazenados. 
+Se o sistema precisar de mais informações sobre os alunos: endereço, data de nascimento, e-mail, etc.  
+Se o sistema precisar de informações sobre professores ou aulas: Formação, Matricula, duração da aula, etc.  
 
 ####  :two:  Quais são os principais campos e tipos?
 id: um campo numérico para identificar unicamente cada aluno. Esse campo é geralmente do tipo INT e é definido como a chave primária da tabela.  
